@@ -1,6 +1,6 @@
 # 🚀 XI Voice: **Clone Any Voice in 10 Seconds. Speak Any Language.** 🌍
 
-The Website is still only locally accessible.
+The Website is still only locally accessible. Demo upon request.
 
 Transform text into **natural, expressive speech**—in *your* voice or anyone else’s—across **3 languages**, with just a **10-second audio clip**. No hours of training data. No complexity. Just **studio-quality voice cloning**.
 
